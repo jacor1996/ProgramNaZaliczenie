@@ -1,1 +1,1 @@
-"# ProgramNaZaliczenie" 
+"# ProgramDoNauki" 
