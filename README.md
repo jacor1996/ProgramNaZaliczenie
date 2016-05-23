@@ -1,5 +1,4 @@
-"# ProgramDoNauki" 
-Program do nauki j. angielskiego
+Program do nauki języka angielskiego
 
 1. Wstęp
     Program będzie posiadał prostą szatę graficzną, słówka będa pobierane z bazy danych, która będzie dostępna dla użytkownika.
